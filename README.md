@@ -9,5 +9,4 @@ A repository project to teach basics programming at the IPD Virology Lab
 
 <!-- badges: start -->
 [![DOI](https://doi.org/10.1128/jcm.00405-24)
-![License](https://img.shields.io/badge/license-MIT-red.svg)
 <!-- badges: end -->
