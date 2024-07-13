@@ -1,10 +1,33 @@
 ---
-title: DENV in Senegal
+title: DENV-2 Bayesian tree in Senegal
 author: Idrissa Dieng
 output: html_document
-email_adress: idrissa.dieng@pasteur.sn
-github_repo: https://github.com/IDaGhostWriter/IDaGhostWriterWeb
+email_address: idrissa.dieng@pasteur.sn
+github_repo: https://github.com/IDaGhostWriter/VirolabCodeClub
 ---
 
-![](testtree.png)
+```{r echo = FALSE, message = FALSE}
+library(lubridate)
+```
 
+
+```{css echo = FALSE}
+.author, .title {
+    display: none; 
+}
+.main-container{
+    max-width: 75%;
+}
+body {
+    background-color: maroon;
+    color: white;
+    font-size = 1.2vw;
+}
+
+```
+
+
+![](visuals/testtree.png)
+
+Last Updated on `r today()`   
+Site [developed](`r rmarkdown::metadata$github_repo`) by [Da_Ghost_Writer](mailto:`r rmarkdown::metadata$email_address`)
