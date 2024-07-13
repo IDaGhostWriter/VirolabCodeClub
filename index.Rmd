@@ -4,10 +4,6 @@ author: Idrissa Dieng
 output: html_document
 email_address: idrissa.dieng@pasteur.sn
 github_repo: https://github.com/IDaGhostWriter/VirolabCodeClub
-
-#.author, .title {
- #   display: none; 
-#}
 ---
 
 ```{r echo = FALSE, message = FALSE}
