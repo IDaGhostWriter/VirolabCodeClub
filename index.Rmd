@@ -1,6 +1,6 @@
 ---
 title: DENV Serotypes trends in Senegal from 2019 to Early 2023
-author: Idrissa Dieng
+author: Idrissa Dieng - Viral Evolution Team Lead
 output: html_document
 email_address: idrissa.dieng@pasteur.sn
 github_repo: https://github.com/IDaGhostWriter/VirolabCodeClub
