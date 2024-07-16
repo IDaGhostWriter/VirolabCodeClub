@@ -4,6 +4,7 @@ author: Idrissa Dieng
 output: html_document
 email_address: idrissa.dieng@pasteur.sn
 github_repo: https://github.com/IDaGhostWriter/VirolabCodeClub
+researchgate: https://www.researchgate.net/profile/Idrissa-Dieng-2
 ---
 
 ```{r echo = FALSE, message = FALSE}
@@ -24,8 +25,7 @@ body {
 
 ```
 
-
 ![](visuals/Serotypes_Highlight.png)
 
 Last Updated on `r today()`   
-Site [developed](`r rmarkdown::metadata$github_repo`) by [Da_Ghost_Writer](mailto:`r rmarkdown::metadata$email_address`)
+Site [developed](`r rmarkdown::metadata$researchgate`) by [Da_Ghost_Writer](mailto:`r rmarkdown::metadata$email_address`)
